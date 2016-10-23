@@ -1,0 +1,16 @@
+Source: php5-apc
+Section: web
+Priority: optional
+Maintainer: Gerik Bonaert <dev@adaxisoft.be>
+Build-Depends: debhelper (>= 7), po-debconf, xsltproc , php5-dev  
+Standards-Version: 3.8.1
+
+Package: php5-apc
+Architecture: any
+Depends: ${shlibs:Depends}, ${php:Depends}, ${misc:Depends}
+Description: APC module for PHP 5
+ Alternative PHP Cache
+ .
+ APC is a free, open, and robust framework for caching and optimizing
+ PHP intermediate code.
+

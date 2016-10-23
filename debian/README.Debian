@@ -1,0 +1,7 @@
+php5-apc for Debian
+--------------------------
+
+This extension has been created with dh-make-pecl which is part
+of dh-make-php.
+
+ -- Gerik Bonaert <dev@adaxisoft.be>, Sun, 23 Oct 2016 05:53:02 -0700
